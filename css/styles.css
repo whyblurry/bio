@@ -1,11 +1,5 @@
-html {
-    cursor: url('https://insane.rip/0csul84h.cur'), default;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+    body {
+        cursor: url('https://insane.rip/0csul84h.cur'), auto;
   }
 
 .typewriter-text1 {
